@@ -70,7 +70,7 @@ time, mark, audio, video {
   outline: 0;
   font-size: 100%;
   vertical-align: baseline;
-  background: transparent;
+  background: #020817;
   word-wrap: break-word; }
 
 body {
@@ -96,7 +96,7 @@ a {
   padding: 0;
   font-size: 100%;
   vertical-align: baseline;
-  background: transparent; }
+  background: #020817; }
 
 ins {
   color: #333;
